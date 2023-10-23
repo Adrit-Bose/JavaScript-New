@@ -5,5 +5,5 @@ MyArr = new Array(1,2,6,7,)
 //console.log(MyArr)
 
 MyArr = Array(1,2,5,9)
-console.log(MyArr)
+console.log(MyArr) 
 
